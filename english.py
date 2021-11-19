@@ -66,7 +66,7 @@ def YNQM(state):
         
 while t :
     print('')
-    print("\033[1;2;32;40m Programed by 'Programer_പൂച്ച' ")
+    print("\033[1;2;32;40m Programed by 'Programer_kannan' ")
     state = input('\033[1;32;2;40m enter the sentence >_ \033[1;0;32;40m'+" ")
     YNQM(state)
     
