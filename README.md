@@ -1,5 +1,5 @@
 # YNQ-Maker-with-Answer-support-
-If you want to find an **auxiliary** and make a **YES/NO Questions** you will need this This will help you .
+If you want to find an **auxiliary** and make a **YES/NO Questions** you will need this.This will help you.
 
 # Installation 
 
